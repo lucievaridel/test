@@ -20,6 +20,9 @@ Which plants did you select and why ?
 
 ### Sample collection
 
+Nine samples chosen from the Rosaceae family were collected from the Botanical Garden of the University of Fribourg (link): Malus pumila, Malus sylvestris, Malus floribunda, Prunus cerasifera, Prunus padus, Prunus tomentosa, Potentilla sterilis, Potentilla rupestris, Potentilla recta. These samples were collected for the DBGI project and were registered accordingly on iNaturalist. More details for the nine samples are available here(link the csv file). 
+Leaves were collected using a sterilized scalpel and placed into coffee filters. The coffee filters were individually placed in a 50mL Falcon tube prior to drying of the leaves in a freeze dryer for one week. 
+
 - Where we the plants collected ? 
 - Which species were collected ? 
 - Link to the iNaturalist entries of your species.
