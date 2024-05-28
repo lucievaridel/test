@@ -42,15 +42,15 @@ For each specie ~50mg (**Table 1**) of the dried leaves were weighted in a 2mL E
 
 |Specie                     |Weight|
 |---------------------------|------|
-|Malus pumila               | mg|
-|Malus sylvestris           | mg|
-|Malus floribunda           | mg|
-|Prunus cerasifera          | mg|
-|Prunus padus               | mg|
-|Prunus tomentosa           | mg|
-|Potentilla sterilis        | mg|
-|Potentilla rupestris       | mg|
-|Potentilla recta           | mg|
+|Malus pumila               |52.2 mg|
+|Malus sylvestris           |49.7 mg|
+|Malus floribunda           |47.5 mg|
+|Prunus cerasifera          |50.9 mg|
+|Prunus padus               |51.4 mg|
+|Prunus tomentosa           |49.3 mg|
+|Potentilla sterilis        |52.5 mg|
+|Potentilla rupestris       |50.5 mg|
+|Potentilla recta           |51.2 mg|
 
 
 ### LCMS Analysis
