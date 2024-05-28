@@ -29,7 +29,7 @@ For each specie ~50mg (**Table 1**) of the dried leaves were weighted in a 2mL E
 
 **Table 1**: Dried leaf weight for each sample
 
-|Specie                     |Weight [mg]|
+|Sample                   |Weight [mg]|
 |---------------------------|------|
 |Malus pumila               |52.2|
 |Malus sylvestris           |49.7|
