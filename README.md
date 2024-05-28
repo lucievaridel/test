@@ -76,6 +76,13 @@ Some features found in this analysis discriminate the *Potentilla* family and th
 According to the molecular network that was build, D-sorbitol (feature id 11, 182.17 m/z) is found in both the *Malus* and *Prunus* family but not in the *Potentilla* family (**Figure ?**). D-sorbitol accumulation occurs when plants encounter stress conditions and serve as carbon and energy source [^1]. It has been shown that plants rely either on sorbitol or sucrose as the predominant photosynthetic product [^2]. This is the case in the *Malus* and *Prunus* families [^2]. From the molecular network is seems therefore that the *Potentilla* family rely more on sucrose (**Figure ?**) and its related compounds than on sorbitol. Another study performed in *Prunus armeniaca* relates the sorbitol synthesis and therefore accumulation linked to aging of the leaves [^1].
 **Add molecular network (d-sorbitol + sucrose), MS2 spectra (d-sorbitol), chemdraw molecule(d-sorbitol)**
 
+2. **Salicylic acid**
+
+On the molecular network, salicylic acid (feature id 1229, 139.04 m/z) is mostly found in the *Potentilla* family and not in the *Malus* or *Prunus* family (**Figure ?**). Salicylic acid is a phenolic acid involved in plant defense against pathogens and plant growth regulation upon stress [^3]. Salicylic acid is also involved in stress responses such as heat and drought. Reduced levels of salicylic acid show an enhanced susceptibility to pathogens. [^4] 
+
+**Add molecular network, MS2 spectra, Chemdraw molecule**
+
+
 Screenshots of your molecular network and of some clusters of interest.
 Link to the GNPS job.
 Link to the GNPS identification table.
@@ -86,7 +93,7 @@ Some conclusion that you could get out of this preliminary study.
 
 # References
 
-Note that you can make a footnote like this [^1]
-
 [^1]: I. Pleyerová, J. Hamet, H. Konrádová, and H. Lipavská, “Versatile roles of sorbitol in higher plants: luxury resource, effective defender or something else?,” Planta, vol. 256, no. 1. Springer Science and Business Media Deutschland GmbH, Jul. 01, 2022. doi: 10.1007/s00425-022-03925-z.
 [^2]: L. Li, M. Li, J. Wu, H. Yin, J. M. Dunwell, and S. Zhang, “Genome-wide identification and comparative evolutionary analysis of sorbitol metabolism pathway genes in four Rosaceae species and three model plants,” BMC Plant Biol, vol. 22, no. 1, Dec. 2022, doi: 10.1186/s12870-022-03729-z.
+[^3]: C. Kaya, F. Ugurlar, M. Ashraf, and P. Ahmad, “Salicylic acid interacts with other plant growth regulators and signal molecules in response to stressful environments in plants,” Plant Physiology and Biochemistry, vol. 196. Elsevier Masson s.r.l., pp. 431–443, Mar. 01, 2023. doi: 10.1016/j.plaphy.2023.02.006.
+[^4]: G. Loake and M. Grant, “Salicylic acid in plant defence-the players and protagonists,” Current Opinion in Plant Biology, vol. 10, no. 5. pp. 466–472, Oct. 2007. doi: 10.1016/j.pbi.2007.08.008.
