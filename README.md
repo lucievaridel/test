@@ -40,26 +40,34 @@ For each specie ~50mg (**Table 1**) of the dried leaves were weighted in a 2mL E
 
 **Table 1**: Dried leaf weight for each sample (**FILL TABLE INFO AT UNI**)
 
-|Specie                     |Weight|
+|Specie                     |Weight [mg]|
 |---------------------------|------|
-|Malus pumila               |52.2 mg|
-|Malus sylvestris           |49.7 mg|
-|Malus floribunda           |47.5 mg|
-|Prunus cerasifera          |50.9 mg|
-|Prunus padus               |51.4 mg|
-|Prunus tomentosa           |49.3 mg|
-|Potentilla sterilis        |52.5 mg|
-|Potentilla rupestris       |50.5 mg|
-|Potentilla recta           |51.2 mg|
+|Malus pumila               |52.2|
+|Malus sylvestris           |49.7|
+|Malus floribunda           |47.5|
+|Prunus cerasifera          |50.9|
+|Prunus padus               |51.4|
+|Prunus tomentosa           |49.3|
+|Potentilla sterilis        |52.5|
+|Potentilla rupestris       |50.5|
+|Potentilla recta           |51.2|
 
 
-### LCMS Analysis
+### LC-MS Analysis
 
 All samples with the blank and the QC were measured in a Liquid Chromatography coupled to a Mass Spectrometer (LC-MS). The Liquid Chromatography was performed with a Reversed phase C18 column. The LC conditions are available [here](https://github.com/commons-teaching/SBL.20004.2024/blob/main/lc_conditions.txt). The Mass Spectrometer had an Electrospray ionization source and the mass analyzer/detector is an orbital ion trap. The MS conditions are available [here](https://github.com/commons-teaching/SBL.20004.2024/blob/main/ms_conditions.txt).
 
 ### Data treatment
+The raw data were converted to mzML format using Proteowizard software (link). *This step was performed by the lecture supervisor*. The .mzML files were treated using the MzMine 2.53 software (link). The following steps were performed for each sample: 
+1.	Centroid mass peak detection from the total ion chromatogram (MS1 noise level=2.0E4, MS2 noise level=0)
+2.	Chromatogram building using the ADAP chromatogram builder (group intensity threshold=2.0E4, minimum highest intensity=6.0E4, m/z tolerance=0.001 m/z, min group size in number of scan=5,)
+3.	Chromatogram deconvolution with the ADAP wavelelets algorithm (m/z range for MS2 pairing=0.025 Da, RT range for MS2 pairing=0.15 min, minimum feature height=2.0E4, minimum signal to noise ratio (S/N)=15, RT wavelet range= 0.02-0.09) 
+4.	Isotope grouping to remove redundancy using the isotopic peak grouper function (m/z tolerance=0.001 m/z, maximum charge=4, RT tolerance=0.09 min)
+5.	Feature alignment using the join aligner function (m/z tolerance = 0.001, RT tolerance = 0.1 min, weight for m/z=75, weight for RT =25)
+6.	Gap filling using the peak finder (multithreaded) function (intensity tolerance=10.0%, m/z tolerance = 0.001, retention time tolerance = 0.2 min)
+7.	Filtering of the gap-filled features with New Average filter mode (m/z tolerance=0.001 m/z)
 
-- Describe the software and parameters used.
+The final feature list was exported as both .CSV and .MGF files. Both files with the metadata were uploaded to GNPS to create a molecular network. *This step was performed by the lecture supervisor*. The molecular network was visualized using the Cytoscape software 3.82 (link). Statistical analyses were also performed on the dataset. *This step was performed by the lecture supervisor*. 
 
 ## Results
 
