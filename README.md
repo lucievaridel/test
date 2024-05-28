@@ -73,7 +73,7 @@ Some features found in this analysis discriminate the *Potentilla* family and th
 1. **D-sorbitol**
 
 
-According to the molecular network that was build, D-sorbitol (feature id 11, 182.17 m/z) is found in both the *Malus* and *Prunus* family but not in the *Potentilla* family (**Figure ?**). D-sorbitol accumulation occurs when plants encounter stress conditions and serve as carbon and energy source [1]. It has been shown that plants rely either on sorbitol or sucrose as the predominant photosynthetic product [2]. This is the case in the *Malus* and *Prunus* families [2]. From the molecular network is seems therefore that the *Potentilla* family rely more on sucrose (**Figure ?**) and its related compounds than on sorbitol. Another study performed in *Prunus armeniaca* relates the sorbitol synthesis and therefore accumulation linked to aging of the leaves [1].
+According to the molecular network that was build, D-sorbitol (feature id 11, 182.17 m/z) is found in both the *Malus* and *Prunus* family but not in the *Potentilla* family (**Figure ?**). D-sorbitol accumulation occurs when plants encounter stress conditions and serve as carbon and energy source [^1]. It has been shown that plants rely either on sorbitol or sucrose as the predominant photosynthetic product [^2]. This is the case in the *Malus* and *Prunus* families [^2]. From the molecular network is seems therefore that the *Potentilla* family rely more on sucrose (**Figure ?**) and its related compounds than on sorbitol. Another study performed in *Prunus armeniaca* relates the sorbitol synthesis and therefore accumulation linked to aging of the leaves [^1].
 **Add molecular network (d-sorbitol + sucrose), MS2 spectra (d-sorbitol+ sucrose), chemdraw molecule(d-sorbitol+sucrose) and references**
 
 Screenshots of your molecular network and of some clusters of interest.
@@ -88,4 +88,5 @@ Some conclusion that you could get out of this preliminary study.
 
 Note that you can make a footnote like this [^1]
 
-[^1]: Ref X
+[^1]: I. Pleyerová, J. Hamet, H. Konrádová, and H. Lipavská, “Versatile roles of sorbitol in higher plants: luxury resource, effective defender or something else?,” Planta, vol. 256, no. 1. Springer Science and Business Media Deutschland GmbH, Jul. 01, 2022. doi: 10.1007/s00425-022-03925-z.
+[^2]: L. Li, M. Li, J. Wu, H. Yin, J. M. Dunwell, and S. Zhang, “Genome-wide identification and comparative evolutionary analysis of sorbitol metabolism pathway genes in four Rosaceae species and three model plants,” BMC Plant Biol, vol. 22, no. 1, Dec. 2022, doi: 10.1186/s12870-022-03729-z.
