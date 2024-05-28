@@ -38,7 +38,7 @@ Example see [table X](https://github.com/commons-teaching/SBL.20004.2022/blob/ma
 
 For each specie ~50mg (**Table 1**) of the dried leaves were weighted in a 2mL Eppendorf and grinded using metallic beads in a Retsch grinder (2.5min, 25 Hz). 1.7mL of a solvent mixture of 80% methanol, 20% water and 0.1% formic acid were then added. The sample was then centrifugated (2 min, 13’000 rpm). The cleared supernatant was then collected for storage at -80°C. 120µL aliquots were taken to inject in the LC-MS. A quality control (QC) was prepared with a mixture of all the nine samples in equal parts. A blank was prepared with the extraction solvent mixture. 
 
-**Table 1**: Dried leaf weight for each sample (**FILL TABLE INFO AT UNI**)
+**Table 1**: Dried leaf weight for each sample
 
 |Specie                     |Weight [mg]|
 |---------------------------|------|
