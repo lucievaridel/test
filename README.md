@@ -151,9 +151,9 @@ Link to the GNPS identification table.
 
 Few features found in this analysis discriminate the *Prunus* genus from the *Malus* and *Potentilla* genera and one will be present below.
 
-1. Arecatannin A2
+1. **Arecatannin A2**
 
-Arecatannin A2 (feature id 2027) is found mainly in the *Prunus* genus along with **procyanidin B2 (IDs:549&2885) and procyanidin C1(IDs:1879&2806)** (Figure ?). These molecules are all proanthocyanidins and procyanidin oligomers.
+Arecatannin A2 (feature id 2027) is found mainly in the *Prunus* genus along with procyanidin B2 (feature id 549, 2885) and procyanidin C1(feature id 1879, 2806) (Figure ?). These molecules are all proanthocyanidins and procyanidin oligomers.
  
 Arecatannin A2 is a tetramer mostly known for its presence in *Areca catechu L.* (betel nut or areca nut)[^8], a type of fruit often chewed in southern Asia as part of its cultural and medicinal tradition. While betel nut utilization has been linked with oral forms of cancer, some epicatechin oligomers (such as arecatannin A3 but not A2) have been highlighted as possible anti-cancer agents [^9].
 Procyanidin B2 is a dimer also coming from betel nuts [^8]. It is an antioxidant that is present in other species as well, such as *Cinchona pubescens, Cinnamomum verum, Vitis vinifera* and plenty more. Most notably for this study perhaps, it is also found in apples [^10]. 
