@@ -78,6 +78,8 @@ According to the molecular network that was build, D-sorbitol (feature id 11, 18
 **Add molecular network (d-sorbitol + sucrose), MS2 spectra (d-sorbitol), chemdraw molecule(d-sorbitol)**
 
 ![image](https://github.com/commons-teaching/SBL.20004.2024/blob/main/docs/mapp_project_00050/mapp_batch_00111/report/figures_report/d-sorbitol_figure.png)
+<p align="center"> 
+**Figure 1:** Molecular network of D-sorbitol and MS2 spectra of D-sorbitol
 
 2. **Salicylic acid**
 
