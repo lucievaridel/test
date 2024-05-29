@@ -88,7 +88,7 @@ The GNPS work produced a molecular network (Figure ?) and some interesting featu
 <p align="center"> Figure ?: Molecular network 
 
 #### *Potentilla* discriming features
-Some features found in this analysis discriminate the *Potentilla* genus and three will be presented below.
+Some features found in this analysis discriminate the *Potentilla* genus from the *Malus* and *Prunus* genera and three will be presented below.
 
 1. **D-sorbitol**
 
@@ -121,7 +121,7 @@ On the molecular network, imidurea (feature id 1942) is mostly in found in the *
 <p align="center"> Figure ?: MS2 spectra of imidurea (imidazolidinyl urea) and molecular network of imidurea (imidazolidinyl urea)
 
 #### *Malus* discriming features
-Some features found in this analysis discriminate the *Malus* genus and will be presented below.
+Some features found in this analysis discriminate the *Malus* genus from the *Potentilla* and *Prunus* genera and will be presented below.
 
 1. **Flavonoids**
 
@@ -149,7 +149,7 @@ Link to the GNPS identification table.
 
 #### *Prunus* discriming features
 
-Few features found in this analysis discriminate the *Prunus* genus from the *Malus* and *Potentilla* genus and one will be present below.
+Few features found in this analysis discriminate the *Prunus* genus from the *Malus* and *Potentilla* genera and one will be present below.
 
 1. Arecatannin A2
 
