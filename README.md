@@ -26,9 +26,9 @@ Leaves were collected using a sterilized scalpel and placed into coffee filters.
 
 ### Sample preparation
 
-For each specie ~50mg (**Table 1**) of the dried leaves were weighted in a 2mL Eppendorf and grinded using metallic beads in a Retsch grinder (2.5min, 25 Hz). 1.7mL of a solvent mixture of 80% methanol, 20% water and 0.1% formic acid were then added. The sample was then centrifugated (2 min, 13’000 rpm). The cleared supernatant was then collected for storage at -80°C. 120µL aliquots were taken to inject in the LC-MS. A quality control (QC) was prepared with a mixture of all the nine samples in equal parts. A blank was prepared with the extraction solvent mixture. 
+For each specie ~50mg (Table 1) of the dried leaves were weighted in a 2mL Eppendorf and grinded using metallic beads in a Retsch grinder (2.5min, 25 Hz). 1.7mL of a solvent mixture of 80% methanol, 20% water and 0.1% formic acid were then added. The sample was then centrifugated (2 min, 13’000 rpm). The cleared supernatant was then collected for storage at -80°C. 120µL aliquots were taken to inject in the LC-MS. A quality control (QC) was prepared with a mixture of all the nine samples in equal parts. A blank was prepared with the extraction solvent mixture. 
 
-**Table 1**: Dried leaf weight for each sample
+Table 1: Dried leaf weight for each sample
 
 |Sample                   |Weight [mg]|
 |---------------------------|------|
@@ -74,12 +74,15 @@ Some features found in this analysis discriminate the *Potentilla* family and th
 1. **D-sorbitol**
 
 
-According to the molecular network that was build, D-sorbitol (feature id 11, 182.17 m/z) is found in both the *Malus* and *Prunus* family but not in the *Potentilla* family (**Figure ?**). D-sorbitol accumulation occurs when plants encounter stress conditions and serve as carbon and energy source [^1]. It has been shown that plants rely either on sorbitol or sucrose as the predominant photosynthetic product [^2]. This is the case in the *Malus* and *Prunus* families [^2]. From the molecular network is seems therefore that the *Potentilla* family rely more on sucrose (**Figure ?**) and its related compounds than on sorbitol. Another study performed in *Prunus armeniaca* relates the sorbitol synthesis and therefore accumulation linked to aging of the leaves [^1].
-**Add molecular network (d-sorbitol + sucrose), MS2 spectra (d-sorbitol), chemdraw molecule(d-sorbitol)**
+According to the molecular network that was build, D-sorbitol (feature id 11, 182.17 m/z) is found in both the *Malus* and *Prunus* family but not in the *Potentilla* family (Figure 1). D-sorbitol accumulation occurs when plants encounter stress conditions and serve as carbon and energy source [^1]. It has been shown that plants rely either on sorbitol or sucrose as the predominant photosynthetic product [^2]. This is the case in the *Malus* and *Prunus* families [^2]. From the molecular network is seems therefore that the *Potentilla* family rely more on sucrose (Figure 2) and its related compounds than on sorbitol. Another study performed in *Prunus armeniaca* relates the sorbitol synthesis and therefore accumulation linked to aging of the leaves [^1].
 
 ![image](https://github.com/commons-teaching/SBL.20004.2024/blob/main/docs/mapp_project_00050/mapp_batch_00111/report/figures_report/d-sorbitol_figure.png)
-<p align="center"> 
-**Figure 1:** Molecular network of D-sorbitol and MS2 spectra of D-sorbitol
+
+<p align="center"> Figure 1: Molecular network of D-sorbitol and MS2 spectra of D-sorbitol
+
+![image](https://github.com/commons-teaching/SBL.20004.2024/blob/main/docs/mapp_project_00050/mapp_batch_00111/report/figures_report/sucrose_figure.png)
+
+<p align="center"> Figure 2: Molecular network of sucrose and its related compounds
 
 2. **Salicylic acid**
 
