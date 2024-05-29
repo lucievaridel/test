@@ -149,6 +149,15 @@ Link to the GNPS identification table.
 
 #### *Prunus* discriming features
 
+Few features found in this analysis discriminate the *Prunus* genus from the *Malus* and *Potentilla* genus and one will be present below.
+
+1. Arecatannin A2
+
+(feature id 2027)
+![image](https://github.com/commons-teaching/SBL.20004.2024/blob/main/docs/mapp_project_00050/mapp_batch_00111/report/figures_report/arecatannin_a2_figure.png)
+
+<p align="center"> Figure ?: MS2 spectra of Arecatannin A2 acid and molecular network of Arecatannin A2
+
 ## Conclusion
 
 Some conclusion that you could get out of this preliminary study.
