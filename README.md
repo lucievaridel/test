@@ -71,7 +71,7 @@ The final feature list was exported as both .CSV and .MGF files. Both files with
 Upon vizualisation of the molecular network (Figure 1), 
 **Add molecular network with legend**
 
-![image]()
+![image](https://github.com/commons-teaching/SBL.20004.2024/blob/main/docs/mapp_project_00050/mapp_batch_00111/report/figures_report/molecular_network_figure.png)
 
 <p align="center"> Figure 1: Molecular network 
 
