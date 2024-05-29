@@ -153,6 +153,14 @@ Few features found in this analysis discriminate the *Prunus* genus from the *Ma
 
 1. Arecatannin A2
 
+Arecatannin A2 (feature id 2027) is found mainly in the *Prunus* genus along with **procyanidin B2 (IDs:549&2885) and procyanidin C1(IDs:1879&2806)** (Figure ?). These molecules are all proanthocyanidins and procyanidin oligomers.
+ 
+Arecatannin A2 is a tetramer mostly known for its presence in *Areca catechu L.* (betel nut or areca nut)[^8], a type of fruit often chewed in southern Asia as part of its cultural and medicinal tradition. While betel nut utilization has been linked with oral forms of cancer, some epicatechin oligomers (such as arecatannin A3 but not A2) have been highlighted as possible anti-cancer agents [^9].
+Procyanidin B2 is a dimer also coming from betel nuts [^8]. It is an antioxidant that is present in other species as well, such as *Cinchona pubescens, Cinnamomum verum, Vitis vinifera* and plenty more. Most notably for this study perhaps, it is also found in apples [^10]. 
+Procyanidin C1 is a trimer that has been shown to have senotherapeutic activity and chemotherapy enhancing properties in preclinical studies conducted in mice models [^11]. Like procyanidin B2, it can be found in cinnamon [^12] and apples [^13]. 
+
+
+
 (feature id 2027)
 ![image](https://github.com/commons-teaching/SBL.20004.2024/blob/main/docs/mapp_project_00050/mapp_batch_00111/report/figures_report/arecatannin_a2_figure.png)
 
@@ -171,4 +179,9 @@ Some conclusion that you could get out of this preliminary study.
 [^5]: J. Gao, D. Che, X. Du, Y. Zheng, H. Jing, and N. Wang, “Imidazolidinyl urea activates mast cells via MRGPRX2 to induce non-histaminergic allergy,” Toxicol Res (Camb), vol. 10, no. 3, pp. 467–475, May 2021, doi: 10.1093/toxres/tfab035.
 [^6]: Panche AN, Diwan AD, Chandra SR. Flavonoids: an overview. J Nutr Sci. 2016 Dec 29;5:e47. doi: 10.1017/jns.2016.41. PMID: 28620474; PMCID: PMC5465813.
 [^7]: Tehami W, Nani A, Khan NA, Hichami A. New Insights Into the Anticancer Effects of p-Coumaric Acid: Focus on Colorectal Cancer. Dose Response. 2023 Jan 4;21(1):15593258221150704. doi: 10.1177/15593258221150704. PMID: 36636631; PMCID: PMC9830577.
-
+[^8]: Gen-ichiro Nonaka, B., Hsu, F., & Nishioka, I. (1981). Structures of Dimeric, Trimeric, and Tetrarneric Procyanidins from Areca catechu L.
+[^9]: Patel, A., Patel, M., Tshering, P., Koyyala, V. P. B., & Ghadyalpatil, N. (2023). Chewing Doma (Fermented Betel Nut): Culture versus Cancer? In South Asian Journal of Cancer. Georg Thieme Verlag. https://doi.org/10.1055/s-0043-1764216
+[^10]: National Center for Biotechnology Information. (2024). PubChem Compound Summary for CID 122738, Procyanidin B2, (+)-. PubChem. https://pubchem.ncbi.nlm.nih.gov/compound/Procyanidin-B2
+[^11]: Xu, Q., & Fu, Q. ✉. (2021). The flavonoid procyanidin C1 has senotherapeutic activity and increases lifespan in mice. Nature Metabolism, 3. https://doi.org/10.1038/s42255-021-00491-8
+[^12]: Sun, P., Li, K., Wang, T., Ji, J., Wang, Y., Chen, K.-X., Jia, Q., Li, Y.-M., & Wang, H.-Y. (2019). Procyanidin C1, a Component of Cinnamon Extracts, Is a Potential Insulin Sensitizer That Targets Adipocytes. https://doi.org/10.1021/acs.jafc.9b02932
+[^13]: Nakano, N., Nishiyama, C., Tokura, T., Nagasako-Akazome, Y., Ohtake, Y., Okumura, K., & Ogawa, H. (2008). Procyanidin C1 from Apple Extracts Inhibits Fc RI-Mediated Mast Cell Activation. Int Arch Allergy Immunol, 147, 213–221. https://doi.org/10.1159/000142044
