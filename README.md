@@ -86,7 +86,16 @@ According to the molecular network that was build, D-sorbitol (feature id 11, 18
 
 2. **Salicylic acid**
 
-On the molecular network, salicylic acid (feature id 1229, 139.04 m/z) is mostly found in the *Potentilla* family and not in the *Malus* or *Prunus* family (**Figure ?**). Salicylic acid is a phenolic acid involved in plant defense against pathogens and plant growth regulation upon stress [^3]. Salicylic acid is also involved in stress responses such as heat and drought. Reduced levels of salicylic acid show an enhanced susceptibility to pathogens. [^4] 
+On the molecular network, salicylic acid (feature id 1229, 139.04 m/z) is mostly found in the *Potentilla* family and not in the *Malus* or *Prunus* family (Figure 3). Salicylic acid is a phenolic acid involved in plant defense against pathogens and plant growth regulation upon stress [^3]. Salicylic acid is also involved in stress responses such as heat and drought. Reduced levels of salicylic acid show an enhanced susceptibility to pathogens. [^4] 
+
+*Note: The full molecular network were the salicylic acid is located is displayed in Figure ???? (Bujar). Below a closer screenshot was taken to better vizualise the closely related features of salicylic acid*
+
+![image](https://github.com/commons-teaching/SBL.20004.2024/blob/main/docs/mapp_project_00050/mapp_batch_00111/report/figures_report/salicylic_acid_figure.png)
+
+<p align="center"> Figure 3: MS2 spectra of salicylic acid and molecular network of salicylic acid 
+
+3. **Imidurea**
+
 
 **Add molecular network, MS2 spectra, Chemdraw molecule**
 
