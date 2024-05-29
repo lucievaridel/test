@@ -87,13 +87,13 @@ The GNPS work produced a molecular network (Figure ?) and some interesting featu
 
 <p align="center"> Figure ?: Molecular network 
 
-#### Potentilla discriming features
+#### *Potentilla* discriming features
 Some features found in this analysis discriminate the *Potentilla* genus and three will be presented below.
 
 1. **D-sorbitol**
 
 
-According to the molecular network that was build, D-sorbitol (feature id 11 is found in both the *Malus* and *Prunus* genera but not in the *Potentilla* genus (Figure ?). D-sorbitol accumulation occurs when plants encounter stress conditions and serve as carbon and energy source [^1]. It has been shown that plants rely either on sorbitol or sucrose as the predominant photosynthetic product [^2]. This is the case in the *Malus* and *Prunus* families [^2]. From the molecular network is seems therefore that the *Potentilla* genus rely more on sucrose (Figure ?) and its related compounds than on sorbitol. Indeed sucrose compounds are found mostly in the *Potentilla* genus and less in the *Malus* and *Prunus* families Another study performed in *Prunus armeniaca* relates the sorbitol synthesis and therefore accumulation linked to aging of the leaves [^1].
+According to the molecular network that was build, D-sorbitol (feature id 11) is found in both the *Malus* and *Prunus* genera but not in the *Potentilla* genus (Figure ?). D-sorbitol accumulation occurs when plants encounter stress conditions and serve as carbon and energy source [^1]. It has been shown that plants rely either on sorbitol or sucrose as the predominant photosynthetic product [^2]. This is the case in the *Malus* and *Prunus* families [^2]. From the molecular network is seems therefore that the *Potentilla* genus rely more on sucrose (Figure ?) and its related compounds than on sorbitol. Indeed sucrose compounds are found mostly in the *Potentilla* genus and less in the *Malus* and *Prunus* families Another study performed in *Prunus armeniaca* relates the sorbitol synthesis and therefore accumulation linked to aging of the leaves [^1].
 
 ![image](https://github.com/commons-teaching/SBL.20004.2024/blob/main/docs/mapp_project_00050/mapp_batch_00111/report/figures_report/d-sorbitol_figure.png)
 
@@ -121,7 +121,7 @@ On the molecular network, imidurea (feature id 1942) is mostly in found in the *
 
 <p align="center"> Figure ?: MS2 spectra of imidurea (imidazolidinyl urea) and molecular network of imidurea (imidazolidinyl urea)
 
-#### Malus discriming features
+#### *Malus* discriming features
 Some features found in this analysis discriminate the *Malus* genus and will be presented below.
 
 1. **Flavonoids**
@@ -139,7 +139,7 @@ Naringenin is a flavonoid found enriched the *Malus* genus(*Malus pumila and Mal
 
 2. **p-Coumaric acid**
 
-p-coumaric acid is a hydroxycinnamic acid and is normally found in the fruits of *Malus domestica* and in the bark of *Prunus serotina* [^7]. Interestingly, we found that the *Malus* genus has this molecule and other similar molecules in common with *Potentilla* and *Prunus*. The enrichment of p-coumaric acid in *Malus* is bigger than in *Potentilla* and *Prunus*. The whole clade of similar structures is distributed over all genera. Some of the nodes are exclusively for one genus and others are shared between all three or between two of the genera. In general, the clade of p-Coumaric acid shows similarities in the metabolome of all three genera. Looking closer to the relative distribution of the nodes, there are some sub-clades that are exclusive for one genus and can be distinguished from the other nodes.  
+p-coumaric acid (feature id 847) is a hydroxycinnamic acid and is normally found in the fruits of *Malus domestica* and in the bark of *Prunus serotina* [^7]. Interestingly, we found that the *Malus* genus has this molecule and other similar molecules in common with *Potentilla* and *Prunus*. The enrichment of p-coumaric acid in *Malus* is bigger than in *Potentilla* and *Prunus*. The whole clade of similar structures is distributed over all genera. Some of the nodes are exclusively for one genus and others are shared between all three or between two of the genera. In general, the clade of p-Coumaric acid shows similarities in the metabolome of all three genera. Looking closer to the relative distribution of the nodes, there are some sub-clades that are exclusive for one genus and can be distinguished from the other nodes.  
 
 ![image](https://github.com/commons-teaching/SBL.20004.2024/blob/main/docs/mapp_project_00050/mapp_batch_00111/report/figures_report/p_coumaric_acid.png)
 
@@ -148,6 +148,8 @@ p-coumaric acid is a hydroxycinnamic acid and is normally found in the fruits of
 Screenshots of your molecular network and of some clusters of interest.
 Link to the GNPS job.
 Link to the GNPS identification table.
+
+#### *Prunus* discriming features
 
 ## Conclusion
 
