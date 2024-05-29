@@ -68,6 +68,12 @@ The final feature list was exported as both .CSV and .MGF files. Both files with
 
 ### Molecular Network
 
+Upon vizualisation of the molecular network (Figure 1), 
+
+![image](https://github.com/commons-teaching/SBL.20004.2024/blob/main/docs/mapp_project_00050/mapp_batch_00111/report/figures_report/molecular_network.png)
+
+<p align="center"> Figure 1: Molecular network 
+
 #### Potentilla discriming features
 Some features found in this analysis discriminate the *Potentilla* family and three will be presented below.
 
