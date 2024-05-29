@@ -13,8 +13,16 @@ Group X
 
 ## Introduction
 
-Some words on the backgorund of your projects.
-Which plants did you select and why ?
+Following Darwin’s model of evolution, all living beings on earth are related to each other to some extent. Hence, it is a central aspect of biology to classify the phylogenetic relationship between species. The degree of relation between species can be determined on different levels of organization. Living things can be classified by their macroscopic or microscopic characteristics. Macroscopic description of relation can be based on morphology (phenotype) and ecological traits. Microscopic properties on the other hand such as the molecular omics (the study of the whole set of specific molecules in a living unit) can relate species to each other based on their molecular build up. Within the metabolome, specialized metabolites are useful for constructing the phylogenetic tree of plants because those molecules indicate a common ancestor which evolved the required pathway to synthesize this kind of molecules.    
+
+In this study, we have chosen to verify the phylogeny of 9 plants from the economical and societal important *Rosaceae* family (*Malus sylvestris, Malus pumila, Malus floribunda, Prunus tomentosa, Prunus padus, Prunus cerasifera, Drymocallis (Potentilla) rupestris, Potentilla sterilis, Potentilla recta*). Phylogenetically the genus of *Malus* and *Prunus* are closer to each other than *Potentilla*. Due to this relation we wanted to investigate if the metabolome of each species, reflects this classification depicted in Fig??. The chemotaxonomic relationship between each three genera was determined by comparing their metabolome. The metabolome of each plant was acquired by mass spectrometry.
+
+**Add Figure philogenetic tree** Bujar document 
+
+Mass spectrometry is a method for measuring the abundance of ions with a specific mass to charge ratio in gas phase. The corresponding machine, the mass spectrometer (MS), consists of 3 essential parts: An ion source which converts analytes into ions in gas phase, a mass analyzer which separates the ions corresponding to their mass to charge ratio and a detector which measures the abundance of a specific ion. The output of this method is a spectrum of ion peaks with their mass to charge ratio and intensities (abundance). Mass spectrometers can be coupled to other mass spectrometers to get fragmentation patterns helpful for determining the structure of the ions in the first MS system. Furthermore, a high-pressure liquid chromatography system can be used before injecting the complex samples into the mass spectrometer to get a better separation of the ions and thus make it easier to determine the molecule. 
+
+Mass spectrometers generate an enormous amount of data, impossible for humans to interpret by hand. Therefore, computers are used to do this task. Many different programs exist to analyze the MS output. Such programs and their application will be explained in the methods part.   
+
 
 ## Material & Methods
 
