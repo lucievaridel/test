@@ -92,7 +92,6 @@ Some features found in this analysis discriminate the *Potentilla* genus and thr
 
 1. **D-sorbitol**
 
-
 According to the molecular network that was build, D-sorbitol (feature id 11) is found in both the *Malus* and *Prunus* genera but not in the *Potentilla* genus (Figure ?). D-sorbitol accumulation occurs when plants encounter stress conditions and serve as carbon and energy source [^1]. It has been shown that plants rely either on sorbitol or sucrose as the predominant photosynthetic product [^2]. This is the case in the *Malus* and *Prunus* families [^2]. From the molecular network is seems therefore that the *Potentilla* genus rely more on sucrose (Figure ?) and its related compounds than on sorbitol. Indeed sucrose compounds are found mostly in the *Potentilla* genus and less in the *Malus* and *Prunus* families Another study performed in *Prunus armeniaca* relates the sorbitol synthesis and therefore accumulation linked to aging of the leaves [^1].
 
 ![image](https://github.com/commons-teaching/SBL.20004.2024/blob/main/docs/mapp_project_00050/mapp_batch_00111/report/figures_report/d-sorbitol_figure.png)
@@ -128,10 +127,9 @@ Some features found in this analysis discriminate the *Malus* genus and will be 
 
 Phloretin (feature id 1), Phlorizin (feature id 16), Naringenin (feature id 134) were identified from the molecular network. They are all classified as flavonoids, which also make the most abundant metabolite group of the *Malus* genus. Flavonoids are polyphenolic Flavan derivates present in plants. In general, flavonoids are biochemically synthesized in plants via the shikimate pathway. [^6]
 
-Phloretin and Phlorizin are specially interesting because they were found only in the *Malus* genus at equal parts for each species in this study (Figure ?), making them a good distinguishing factor for this genus. Regarding that phloretin was exclusively found in the *Malus* genus and it is structurally very similar to phlorizin because it is the glycoside of phloretin, it makes sense that phlorizin is also found exclusively in this genus. 
+Phloretin and Phlorizin are specially interesting because they were found only in the *Malus* genus at equal parts for each species in this study (Figure ?), making them a good distinguishing factor for this genus. Regarding that phloretin was exclusively found in the *Malus* genus (see [Phloretin](https://lotus.naturalproducts.net/compound/lotus_id/LTS0003293) and [Phlorizin](https://lotus.naturalproducts.net/compound/lotus_id/LTS0198771 ) entries on [Lotus](https://lotus.naturalproducts.net)) and it is structurally very similar to phlorizin because it is the glycoside of phloretin, it makes sense that phlorizin is also found exclusively in this genus. 
 
 Naringenin is a flavonoid found enriched the *Malus* genus(*Malus pumila and Malus domestica*). In the molecular network (Figure ??) there was shown that also a smaller part of the Naringenin clade was included in the *Potentilla* and *Prunus* genus. The Naringenin node conversely represents only the *Malus* genus making it also a distinguishing factor for the genus.
-**Add lotus reference**
 
 ![image](https://github.com/commons-teaching/SBL.20004.2024/blob/main/docs/mapp_project_00050/mapp_batch_00111/report/figures_report/flavonoid_figure.png)
 
