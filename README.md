@@ -21,7 +21,7 @@ The phylogenetic tree (Figure 1) of the plants specie investigated in this study
 
 ![image](https://github.com/commons-teaching/SBL.20004.2024/blob/main/docs/mapp_project_00050/mapp_batch_00111/report/figures_report/image.png)
 
-<p align="center"> Figure 1: The phylogenetic tree of the nine chosen species from the *Rosaceae* family. 
+<p align="center"> Figure 1: Phylogenetic tree of the nine selected species
 
 Mass spectrometry is a method for measuring the abundance of ions with a specific mass to charge ratio in gas phase. The corresponding machine, the mass spectrometer (MS), consists of 3 essential parts: An ion source which converts analytes into ions in gas phase, a mass analyzer which separates the ions corresponding to their mass to charge ratio and a detector which measures the abundance of a specific ion. The output of this method is a spectrum of ion peaks with their mass to charge ratio and intensities (abundance). Mass spectrometers can be coupled to other mass spectrometers to get fragmentation patterns helpful for determining the structure of the ions in the first MS system. Furthermore, a high-pressure liquid chromatography system can be used before injecting the complex samples into the mass spectrometer to get a better separation of the ions and thus make it easier to determine the molecule. 
 
