@@ -77,6 +77,8 @@ Some features found in this analysis discriminate the *Potentilla* family and th
 According to the molecular network that was build, D-sorbitol (feature id 11, 182.17 m/z) is found in both the *Malus* and *Prunus* family but not in the *Potentilla* family (**Figure ?**). D-sorbitol accumulation occurs when plants encounter stress conditions and serve as carbon and energy source [^1]. It has been shown that plants rely either on sorbitol or sucrose as the predominant photosynthetic product [^2]. This is the case in the *Malus* and *Prunus* families [^2]. From the molecular network is seems therefore that the *Potentilla* family rely more on sucrose (**Figure ?**) and its related compounds than on sorbitol. Another study performed in *Prunus armeniaca* relates the sorbitol synthesis and therefore accumulation linked to aging of the leaves [^1].
 **Add molecular network (d-sorbitol + sucrose), MS2 spectra (d-sorbitol), chemdraw molecule(d-sorbitol)**
 
+![image](https://github.com/commons-teaching/SBL.20004.2024/blob/main/docs/mapp_project_00050/mapp_batch_00111/report/figures_report/d-sorbitol_figure.png)
+
 2. **Salicylic acid**
 
 On the molecular network, salicylic acid (feature id 1229, 139.04 m/z) is mostly found in the *Potentilla* family and not in the *Malus* or *Prunus* family (**Figure ?**). Salicylic acid is a phenolic acid involved in plant defense against pathogens and plant growth regulation upon stress [^3]. Salicylic acid is also involved in stress responses such as heat and drought. Reduced levels of salicylic acid show an enhanced susceptibility to pathogens. [^4] 
