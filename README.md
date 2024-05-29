@@ -68,8 +68,8 @@ The final feature list was exported as both .CSV and .MGF files. Both files with
 
 ### Molecular Network
 
-Upon vizualisation of the molecular network (Figure 1), 
-**Add molecular network with legend**
+The GNPS work produced a molecular network (Figure 1) and some interesting features will be discussed in the sections below 
+**Add GNPS job and identification table**
 
 ![image](https://github.com/commons-teaching/SBL.20004.2024/blob/main/docs/mapp_project_00050/mapp_batch_00111/report/figures_report/molecular_network_figure.png)
 
