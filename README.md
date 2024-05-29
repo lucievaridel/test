@@ -86,18 +86,22 @@ According to the molecular network that was build, D-sorbitol (feature id 11, 18
 
 2. **Salicylic acid**
 
-On the molecular network, salicylic acid (feature id 1229, 139.04 m/z) is mostly found in the *Potentilla* family and not in the *Malus* or *Prunus* family (Figure 3). Salicylic acid is a phenolic acid involved in plant defense against pathogens and plant growth regulation upon stress [^3]. Salicylic acid is also involved in stress responses such as heat and drought. Reduced levels of salicylic acid show an enhanced susceptibility to pathogens. [^4] 
+On the molecular network, salicylic acid (feature id 1229, 139.04 m/z) is mostly found in the *Potentilla* family and not in the *Malus* or *Prunus* family (Figure 3). Salicylic acid is a phenolic acid involved in plant defense against pathogens and plant growth regulation upon stress [^3]. Salicylic acid is also involved in stress responses such as heat and drought. Reduced levels of salicylic acid show an enhanced susceptibility to pathogens [^4]. 
 
-*Note: The full molecular network were the salicylic acid is located is displayed in Figure ???? (Bujar). Below a closer screenshot was taken to better vizualise the closely related features of salicylic acid*
+*Note: The full molecular network were the salicylic acid is located is displayed in Figure ???? (Bujar). In Figure 3 a closer screenshot was taken to better vizualise the closely related features of salicylic acid*
 
 ![image](https://github.com/commons-teaching/SBL.20004.2024/blob/main/docs/mapp_project_00050/mapp_batch_00111/report/figures_report/salicylic_acid_figure.png)
 
 <p align="center"> Figure 3: MS2 spectra of salicylic acid and molecular network of salicylic acid 
 
-3. **Imidurea**
+3. **Imidurea (Imidazolidinyl urea)**
 
+On the molecular network, imidurea (feature id 1942, 411.09 m/z) is mostly in found in the *Potentilla* family and less present in both the *Malus* and *Prunus* families (Figure 4).  Imidurea is known to exhibit antimicrobial agent properties against various microorganisms and is used in pharmaceutical and cosmetic products [^5]. It is therefore speculated that imidurea might be linked to a plant defense mechanism. 
 
-**Add molecular network, MS2 spectra, Chemdraw molecule**
+![image](https://github.com/commons-teaching/SBL.20004.2024/blob/main/docs/mapp_project_00050/mapp_batch_00111/report/figures_report/imidurea_figure.png)
+
+<p align="center"> Figure 4: MS2 spectra of imidurea (imidazolidinyl urea) and molecular network of imidurea (imidazolidinyl urea)
+
 
 
 Screenshots of your molecular network and of some clusters of interest.
@@ -114,3 +118,5 @@ Some conclusion that you could get out of this preliminary study.
 [^2]: L. Li, M. Li, J. Wu, H. Yin, J. M. Dunwell, and S. Zhang, “Genome-wide identification and comparative evolutionary analysis of sorbitol metabolism pathway genes in four Rosaceae species and three model plants,” BMC Plant Biol, vol. 22, no. 1, Dec. 2022, doi: 10.1186/s12870-022-03729-z.
 [^3]: C. Kaya, F. Ugurlar, M. Ashraf, and P. Ahmad, “Salicylic acid interacts with other plant growth regulators and signal molecules in response to stressful environments in plants,” Plant Physiology and Biochemistry, vol. 196. Elsevier Masson s.r.l., pp. 431–443, Mar. 01, 2023. doi: 10.1016/j.plaphy.2023.02.006.
 [^4]: G. Loake and M. Grant, “Salicylic acid in plant defence-the players and protagonists,” Current Opinion in Plant Biology, vol. 10, no. 5. pp. 466–472, Oct. 2007. doi: 10.1016/j.pbi.2007.08.008.
+[^5]: J. Gao, D. Che, X. Du, Y. Zheng, H. Jing, and N. Wang, “Imidazolidinyl urea activates mast cells via MRGPRX2 to induce non-histaminergic allergy,” Toxicol Res (Camb), vol. 10, no. 3, pp. 467–475, May 2021, doi: 10.1093/toxres/tfab035.
+
