@@ -168,6 +168,14 @@ Procyanidin C1 is a trimer that has been shown to have senotherapeutic activity 
 ## Conclusion
 
 Some conclusion that you could get out of this preliminary study.
+- Hypothesis is not verified because of stats
+- Heatmap: Malus separated
+- PCA: Prunus separated 
+- PCoA: Prunus separated less evident than PCA
+- PLSDA: Potentilla separated --> DIRECTED (say which points must be together)!!
+- Malus: flavonoids enriched 
+- Arecatannin for us in Prunus dominant but not in Malus -> but in litterature mentioned in Malus not in Prunus --> presence in Prunus is established
+- Hard to say proximity in phylogenetic tree using metabolome --> species too close maybe --> easier to discrimnate in different families 
 
 # References
 
