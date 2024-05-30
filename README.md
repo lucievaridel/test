@@ -159,7 +159,7 @@ Arecatannin A2 is a tetramer mostly known for its presence in *Areca catechu L.*
 Procyanidin B2 is a dimer also coming from betel nuts [^8]. It is an antioxidant that is present in other species as well, such as *Cinchona pubescens, Cinnamomum verum, Vitis vinifera* and plenty more. Most notably for this study perhaps, it is also found in apples [^10]. 
 Procyanidin C1 is a trimer that has been shown to have senotherapeutic activity and chemotherapy enhancing properties in preclinical studies conducted in mice models [^11]. Like procyanidin B2, it can be found in cinnamon [^12] and apples [^13]. 
 
-**Add fragmentation pattern of Procyanidin C1, B2**
+**Add fragmentation pattern of Procyanidin C1, B2 + molecule**
 
 ![image](https://github.com/commons-teaching/SBL.20004.2024/blob/main/docs/mapp_project_00050/mapp_batch_00111/report/figures_report/arecatannin_a2_figure.png)
 
