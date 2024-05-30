@@ -175,7 +175,8 @@ Some conclusion that you could get out of this preliminary study.
 - PLSDA: Potentilla separated --> DIRECTED (say which points must be together)!!
 - Malus: flavonoids enriched 
 - Arecatannin for us in Prunus dominant but not in Malus -> but in litterature mentioned in Malus not in Prunus --> presence in Prunus is established
-- Hard to say proximity in phylogenetic tree using metabolome --> species too close maybe --> easier to discrimnate in different families 
+- Hard to say proximity in phylogenetic tree using metabolome --> species too close maybe --> easier to discrimnate in different families
+- Potentilla: sucrose resource, Malus/Prunus: d-sorbitol 
 
 # References
 
