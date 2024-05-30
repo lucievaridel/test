@@ -4,7 +4,7 @@ SBL.20004
 31.05.2024
 
 ----
-Group X
+Group C
 - Thuerler Elias
 - Zenuni Bujar
 - Varidel Lucie 
